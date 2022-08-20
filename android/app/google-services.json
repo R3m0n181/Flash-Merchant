@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1024690294974",
+    "project_id": "flash-merchant-a89d6",
+    "storage_bucket": "flash-merchant-a89d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1024690294974:android:64ef81a2888678b3f80eef",
+        "android_client_info": {
+          "package_name": "com.example.demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1024690294974-kr5lve8b1mq04h2bkinai78jmg2kusfi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGnTrizjj6gAYpzwD-HiXDr4Whm036K9g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1024690294974-kr5lve8b1mq04h2bkinai78jmg2kusfi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1024690294974:android:1bc9b73b0094c724f80eef",
+        "android_client_info": {
+          "package_name": "com.example.fm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1024690294974-kr5lve8b1mq04h2bkinai78jmg2kusfi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGnTrizjj6gAYpzwD-HiXDr4Whm036K9g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1024690294974-kr5lve8b1mq04h2bkinai78jmg2kusfi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
